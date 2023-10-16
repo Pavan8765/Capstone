@@ -1,0 +1,124 @@
+
+.Createanaccount_Createanaccount {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(55,109,171,0.52);
+}
+.Createanaccount_Createanaccount .Createanaccount_1 {
+	position: absolute;
+	left: 483.06px;
+	top: 29.1px;
+	width: 419.04px;
+	height: 55.290000000000006px;
+	color: rgba(245,245,245,1.00);
+	font-family: Inter;
+	font-size: 46.56px;
+	font-weight: 700;
+	line-height: 56.348180809021px;
+}
+.Createanaccount_Createanaccount .Name {
+	position: absolute;
+	left: 299.73px;
+	top: 122.22px;
+	width: 98.94px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Createanaccount_Createanaccount .Emailid {
+	position: absolute;
+	left: 299.73px;
+	top: 270.63px;
+	width: 142.59px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Createanaccount_Createanaccount .Password {
+	position: absolute;
+	left: 299.73px;
+	top: 419.04px;
+	width: 168.78px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Createanaccount_Createanaccount .Rectangle4 {
+	position: absolute;
+	left: 299.73px;
+	top: 194.97px;
+	width: 742.0500000000001px;
+	height: 46.56px;
+	background: rgba(245,245,245,1.00);
+}
+.Createanaccount_Createanaccount .Rectangle5 {
+	position: absolute;
+	left: 299.73px;
+	top: 343.38px;
+	width: 742.0500000000001px;
+	height: 46.56px;
+	background: rgba(245,245,245,1.00);
+}
+.Createanaccount_Createanaccount .Rectangle6 {
+	position: absolute;
+	left: 299.73px;
+	top: 491.79px;
+	width: 742.0500000000001px;
+	height: 46.56px;
+	background: rgba(245,245,245,1.00);
+}
+.Createanaccount_Createanaccount .Rectangle7 {
+	position: absolute;
+	left: 587.82px;
+	top: 808.98px;
+	width: 261.90000000000003px;
+	height: 52.38px;
+	background: rgba(243,246,244,1.00);
+	border-radius: 14.55px;
+}
+.Createanaccount_Createanaccount .SignUp {
+	position: absolute;
+	left: 651.84px;
+	top: 814.8000000000001px;
+	width: 133.86px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Createanaccount_Createanaccount .ReenterPassword {
+	position: absolute;
+	left: 299.73px;
+	top: 567.45px;
+	width: 328.83000000000004px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Createanaccount_Createanaccount .Rectangle8 {
+	position: absolute;
+	left: 299.73px;
+	top: 640.2px;
+	width: 742.0500000000001px;
+	height: 46.56px;
+	background: rgba(245,245,245,1.00);
+}

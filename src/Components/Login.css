@@ -1,0 +1,213 @@
+
+.Login_Login {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(55,109,171,0.52);
+}
+.Login_Login .Username {
+	position: absolute;
+	left: 858.45px;
+	top: 113.49000000000001px;
+	width: 168.78px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 400;
+	line-height: 42.26113560676575px;
+}
+.Login_Login .Password {
+	position: absolute;
+	left: 858.45px;
+	top: 320.1px;
+	width: 162.96px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 400;
+	line-height: 42.26113560676575px;
+}
+.Login_Login .Rectangle2 {
+	position: absolute;
+	left: 922.47px;
+	top: 381.21000000000004px;
+	width: 436.5px;
+	height: 37.83px;
+	background: rgba(245,245,245,1.00);
+}
+.Login_Login .Rectangle4 {
+	position: absolute;
+	left: 922.47px;
+	top: 218.25px;
+	width: 436.5px;
+	height: 37.83px;
+	background: rgba(245,245,245,1.00);
+}
+.Login_Login .Rectangle3 {
+	position: absolute;
+	left: 983.58px;
+	top: 634.38px;
+	width: 317.19px;
+	height: 43.650000000000006px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 14.55px;
+}
+.Login_Login .SignIn {
+	position: absolute;
+	left: 1085.43px;
+	top: 631.47px;
+	width: 113.49000000000001px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 400;
+	line-height: 42.26113560676575px;
+}
+.Login_Login .Login_1 {
+	position: absolute;
+	left: 1070.88px;
+	top: 37.83px;
+	width: 96.03px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Login_Login .Rememberme {
+	position: absolute;
+	left: 922.47px;
+	top: 462.69px;
+	width: 241.53px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 400;
+	line-height: 42.26113560676575px;
+}
+.Login_Login .Frame2 {
+	position: absolute;
+	left: 858.45px;
+	top: 471.42px;
+	width: 32.010000000000005px;
+	height: 26.19px;
+	background: rgba(255,255,255,1.00);
+}
+.Login_Login .Frame2 .Border {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 32.010000000000005px;
+	height: 26.19px;
+}
+.Login_Login .Frame2 .Border .left {
+	position: absolute;
+	left: 0px;
+	width: 0px;
+	height: 26.19px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.Login_Login .Frame2 .Border .right {
+	position: absolute;
+	right: 2.91px;
+	width: 0px;
+	height: 26.19px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.Login_Login .Frame2 .Border .top {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 2.91px;
+	width: 32.010000000000005px;
+	height: 0px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.Login_Login .Frame2 .Border .bottom {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	bottom: 0px;
+	width: 32.010000000000005px;
+	height: 0px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.Login_Login .Createanaccount {
+	position: absolute;
+	left: 232.8px;
+	top: 689.6700000000001px;
+	width: 311.37px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 600;
+	line-height: 42.26113560676575px;
+}
+.Login_Login .Parkingrid {
+	width: 86px;
+	height: 22px;
+}
+.Login_Login .Parkingrid .Parkingrid_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	color: rgba(243,246,244,1.00);
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.784090042114258px;
+}
+.Login_Login .image1 {
+	position: absolute;
+	left: 858.45px;
+	top: 218.25px;
+	width: 40.74px;
+	height: 37.34494079589844px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Login_Login .Maskgroup {
+	position: absolute;
+	left: 0px;
+	top: 168.78px;
+	width: 686.76px;
+	height: 413.22px;
+}
+.Login_Login .Maskgroup .imgbinsportscarlogocariK4Mj8gYX6WmzX2yqq6cDyjqfremovebgpreview1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 686.76px;
+	height: 413.22px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Login_Login .Maskgroup .Rectangle1 {
+	position: absolute;
+	left: -104.791259765625px;
+	top: -94.90216186523438px;
+	width: 853.303505859375px;
+	height: 603.0243237304687px;
+	background: rgba(255,255,255,1.00);
+}
+.Login_Login .icons8password301 {
+	position: absolute;
+	left: 858.45px;
+	top: 381.21000000000004px;
+	width: 40.74px;
+	height: 40.74px;
+	object-fit: cover;
+	overflow: hidden;
+}

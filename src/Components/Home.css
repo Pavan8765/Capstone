@@ -1,0 +1,133 @@
+
+.Home_Home {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(55,109,171,1.00);
+}
+
+.Home_Home .Rectangle9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 238.62px;
+	height: 87.30000000000001px;
+	background: rgba(61,26,120,1.00);
+}
+.Home_Home .Parkingrid {
+	position: absolute;
+	left: 32.010000000000005px;
+	top: 8.73px;
+	width: 177.51000000000002px;
+	height: 43.650000000000006px;
+	color: rgba(243,246,244,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Home_Home .Rectangle10 {
+	position: absolute;
+	left: 238.62px;
+	top: 0px;
+	width: 1201.8300000000002px;
+	height: 87.30000000000001px;
+	background: rgba(243,246,244,1.00);
+}
+.Home_Home .About {
+	position: absolute;
+	left: 619.83px;
+	top: 8.73px;
+	width: 107.67px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Home_Home .Location {
+	position: absolute;
+	left: 878.82px;
+	top: 8.73px;
+	width: 148.41px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Home_Home .ContactUs {
+	position: absolute;
+	left: 1161.0900000000001px;
+	top: 8.73px;
+	width: 192.06px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Home_Home ._51 {
+	position: absolute;
+	left: 0px;
+	top: 87.30000000000001px;
+	width: 1440.45px;
+	height: 855.5400000000001px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Home_Home .FindAmazingParkingspacesnearyou {
+	position: absolute;
+	left: 55.290000000000006px;
+	top: 282.27000000000004px;
+	width: 368.48301269531254px;
+	height: 77.64002197265626px;
+}
+.Home_Home .Rectangle11 {
+	position: absolute;
+	left: 75.66px;
+	top: 375.39000000000004px;
+	width: 270.63px;
+	height: 49.47px;
+	background: rgba(61,26,120,1.00);
+	border-radius: 14.55px;
+}
+.Home_Home .ShowParkingSpaces {
+	position: absolute;
+	left: 87.30000000000001px;
+	top: 384.12px;
+	width: 247.35000000000002px;
+	height: 29.1px;
+	color: rgba(243,246,244,1.00);
+	font-family: Inter;
+	font-size: 23.28px;
+	font-weight: 700;
+	line-height: 28.1740904045105px;
+}
+.Home_Home .Rectangle12 {
+	position: absolute;
+	left: 352.11px;
+	top: 8.73px;
+	width: 145.5px;
+	height: 52.38px;
+	background: rgba(255,200,4,1.00);
+}
+.Home_Home .Home_1 {
+	position: absolute;
+	left: 375.39000000000004px;
+	top: 8.73px;
+	width: 101.85000000000001px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}

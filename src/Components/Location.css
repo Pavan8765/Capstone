@@ -1,0 +1,201 @@
+
+.Location_Location {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(55,109,171,1.00);
+}
+.Location_Location .Rectangle9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 238.62px;
+	height: 87.30000000000001px;
+	background: rgba(61,26,120,1.00);
+}
+.Location_Location .Parkingrid {
+	position: absolute;
+	left: 32.010000000000005px;
+	top: 8.73px;
+	width: 177.51000000000002px;
+	height: 43.650000000000006px;
+	color: rgba(243,246,244,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Location_Location .Rectangle10 {
+	position: absolute;
+	left: 238.62px;
+	top: 0px;
+	width: 1201.8300000000002px;
+	height: 87.30000000000001px;
+	background: rgba(243,246,244,1.00);
+}
+.Location_Location .Home {
+	position: absolute;
+	left: 375.39000000000004px;
+	top: 8.73px;
+	width: 101.85000000000001px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Location_Location .About {
+	position: absolute;
+	left: 619.83px;
+	top: 8.73px;
+	width: 107.67px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Location_Location .Rectangle12 {
+	position: absolute;
+	left: 855.5400000000001px;
+	top: 8.73px;
+	width: 189.15px;
+	height: 52.38px;
+	background: rgba(255,200,4,1.00);
+}
+.Location_Location .ContactUs {
+	position: absolute;
+	left: 1161.0900000000001px;
+	top: 8.73px;
+	width: 192.06px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Location_Location .Location_1 {
+	position: absolute;
+	left: 875.9100000000001px;
+	top: 8.73px;
+	width: 148.41px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Location_Location .bangaloredistrictmap1 {
+	position: absolute;
+	left: 0px;
+	top: 87.30000000000001px;
+	width: 1440.45px;
+	height: 855.5400000000001px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .icons8address5023 {
+	position: absolute;
+	left: 840.99px;
+	top: 512.1600000000001px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .icons8address5024 {
+	position: absolute;
+	left: 890.46px;
+	top: 375.39000000000004px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .icons8address5025 {
+	position: absolute;
+	left: 1030.14px;
+	top: 421.95000000000005px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .icons8address5026 {
+	position: absolute;
+	left: 523.8000000000001px;
+	top: 436.5px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .icons8address5027 {
+	position: absolute;
+	left: 619.83px;
+	top: 253.17000000000002px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .icons8address5028 {
+	position: absolute;
+	left: 634.38px;
+	top: 526.71px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .icons8address5029 {
+	position: absolute;
+	left: 963.21px;
+	top: 555.8100000000001px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .Frame3 {
+	position: absolute;
+	left: 1102.89px;
+	top: 119.31px;
+	width: 29.1px;
+	height: 29.1px;
+}
+.Location_Location .Frame3 .icons8address50211 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .icons8address50210 {
+	position: absolute;
+	left: 1257.1200000000001px;
+	top: 744.96px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Location_Location .icons8address5022 {
+	position: absolute;
+	left: 774.0600000000001px;
+	top: 224.07000000000002px;
+	width: 29.1px;
+	height: 29.1px;
+	object-fit: cover;
+	overflow: hidden;
+}
