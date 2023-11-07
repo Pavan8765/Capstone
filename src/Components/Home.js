@@ -19,7 +19,7 @@ export default function Home () {
 			</Link>
 			<img className='_51' src = {ImgAsset.Home__51} alt='not found'/>
 			<img className='FindAmazingParkingspacesnearyou' src = {ImgAsset.Home_FindAmazingParkingspacesnearyou} alt='not found'/>
-			<Link to='/maps'>
+			<Link to='/Showparkingspace1'>
 				<div className='Rectangle11'/>
 			</Link>
 			<span className='ShowParkingSpaces'>Show Parking Spaces</span>

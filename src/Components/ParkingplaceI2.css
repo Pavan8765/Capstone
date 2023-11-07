@@ -1,0 +1,102 @@
+
+.ParkingplaceI2_ParkingplaceI2 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(55,109,171,1.00);
+}
+.ParkingplaceI2_ParkingplaceI2 .Rectangle27 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 238.62px;
+	height: 87.30000000000001px;
+	background: rgba(61,26,120,1.00);
+}
+.ParkingplaceI2_ParkingplaceI2 .Parkingrid {
+	position: absolute;
+	left: 32.010000000000005px;
+	top: 8.73px;
+	width: 177.51000000000002px;
+	height: 43.650000000000006px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.ParkingplaceI2_ParkingplaceI2 .Rectangle28 {
+	position: absolute;
+	left: 238.62px;
+	top: 0px;
+	width: 1201.8300000000002px;
+	height: 87.30000000000001px;
+	background: rgba(245,245,245,1.00);
+}
+.ParkingplaceI2_ParkingplaceI2 .Indiranagar {
+	position: absolute;
+	left: 686.76px;
+	top: 8.73px;
+	width: 197.88px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+/* .ParkingplaceI2_ParkingplaceI2 .image2 {
+	position: absolute;
+	left: 0px;
+	top: 87.30000000000001px;
+	width: 718.77px;
+	height: 855.5400000000001px;
+	object-fit: cover;
+	overflow: hidden;
+} */
+.ParkingplaceI2_ParkingplaceI2 .Rectangle29 {
+	position: absolute;
+	left: 870.09px;
+	top: 788.61px;
+	width: 363.75px;
+	height: 84.39px;
+	background: rgba(243,246,244,1.00);
+	border-radius: 14.55px;
+}
+/* .ParkingplaceI2_ParkingplaceI2 .ShowDirections {
+	position: absolute;
+	left: 910.83px;
+	top: 808.98px;
+	width: 279.36px;
+	height: 43.650000000000006px;
+	color: rgba(61,26,120,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+} */
+.ParkingplaceI2_ParkingplaceI2 .Rectangle51 {
+	position: absolute;
+	left: 1277.49px;
+	top: 0px;
+	width: 162.96px;
+	height: 90.21000000000001px;
+	background: rgba(255,200,4,1.00);
+	border-radius: 14.55px;
+}
+.ParkingplaceI2_ParkingplaceI2 .Home {
+	position: absolute;
+	left: 1306.5900000000001px;
+	top: 20.37px;
+	width: 101.85000000000001px;
+	height: 43.650000000000006px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
