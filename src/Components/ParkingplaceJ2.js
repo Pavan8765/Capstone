@@ -34,15 +34,15 @@ export default function ParkingplaceI2({ Component, pageProps }) {
 
   useEffect(() => {
     try {
-      socket.emit("get_parking_spaces", "Hello from client");
-      // socket.emit('get_pklot', 'Hello from client');
+      // socket.emit("get_parking_spaces", "Hello from client");
+      socket.emit('get_pklot', 'Hello from client');
 
       // Receive messages from the server
-      socket.on("sent_parking_spaces", (data) => {
-        // Handle the message from the server
-        console.log(data);
-        setSpots(data);
-      });
+      // socket.on("sent_parking_spaces", (data) => {
+      //   // Handle the message from the server
+      //   console.log(data);
+      //   setSpots(data);
+      // });
       socket.on("sent_pklot", (data) => {
         // Handle the message from the server
         console.log(data);
