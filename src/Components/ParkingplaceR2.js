@@ -43,11 +43,11 @@ export default function ParkingplaceI2({ Component, pageProps }) {
         console.log(data);
         setSpots(data);
       });
-      socket.on("sent_pklot", (data) => {
-        // Handle the message from the server
-        console.log(data);
-        setSpots(data);
-      });
+      // socket.on("sent_pklot", (data) => {
+      //   // Handle the message from the server
+      //   console.log(data);
+      //   setSpots(data);
+      // });
 
       // Clean up on unmount
       return () => {
