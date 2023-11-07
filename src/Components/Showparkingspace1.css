@@ -1,0 +1,80 @@
+
+.Showparkingspace1_Showparkingspace1 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Showparkingspace1_Showparkingspace1 ._61 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.45px;
+	height: 942.84px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Showparkingspace1_Showparkingspace1 .Parkingrid {
+	position: absolute;
+	left: 32.010000000000005px;
+	top: 34.92px;
+	width: 206.61px;
+	height: 49.47px;
+	color: rgba(243,246,244,1.00);
+	font-family: Inter;
+	font-size: 40.74px;
+	font-weight: 700;
+	line-height: 49.304659595489504px;
+}
+.Showparkingspace1_Showparkingspace1 .FINDINGPARKINGLOTSMADEEASY {
+	position: absolute;
+	left: 355.02000000000004px;
+	top: 331.74px;
+	width: 727.5px;
+	height: 49.47px;
+	color: rgba(243,246,244,1.00);
+	font-family: Inter;
+	font-size: 40.74px;
+	font-weight: 700;
+	line-height: 49.304659595489504px;
+}
+.Showparkingspace1_Showparkingspace1 .Destination {
+	position: absolute;
+	left: 602.37px;
+	top: 395.76px;
+	width: 197.88px;
+	height: 43.650000000000006px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 34.92px;
+	font-weight: 700;
+	line-height: 42.26113560676575px;
+}
+.Showparkingspace1_Showparkingspace1 .Rectangle14 {
+	position: absolute;
+	left: 608.19px;
+	top: 439.41px;
+	width: 189.15px;
+	height: 32.010000000000005px;
+	background: rgba(243,246,244,1.00);
+}
+.Showparkingspace1_Showparkingspace1 .Line1 {
+	position: absolute;
+	left: 762.4200000000001px;
+	top: 451.05px;
+	width: 11.64px;
+	height: 8.73px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.Showparkingspace1_Showparkingspace1 .Line2 {
+	position: absolute;
+	left: 774.0600000000001px;
+	top: 451.05px;
+	width: 11.64px;
+	height: 8.73px;
+	border: 1px solid rgba(0,0,0,1);
+}

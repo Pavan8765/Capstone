@@ -36,3 +36,15 @@ export default function Location () {
 		</div>
 	)
 }
+// import React from 'react';
+// import App5 from './app5';
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <App5/>
+//     </div>
+//   );
+// }
+
+// export default App;

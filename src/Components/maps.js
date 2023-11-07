@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import '../globals.css'
 // import axios from './axios'
 import io from 'socket.io-client';
+import App5 from './app5';
 
 const socket = io('http://localhost:5000');
 
@@ -63,7 +64,8 @@ function Maps({ Component, pageProps }) {
         const {id, space, total, location} = spot;
         return (
           <div className='parking_spots' key={id}>
-            <h3>Total Available parking spots at {location} are {space} out of {total}</h3>
+            {/* <h3>Total Available parking spots at {location} are {space} out of {total}</h3> */}
+            <App5 space={space} total={total} location="indiranagr"/>
           </div>
         )
       })}
